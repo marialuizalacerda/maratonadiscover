@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://github.com/marialuizalacerda/maratonadiscover/blob/f7a4725dedd4201936f4c05819f9ee5bf23b0575/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
